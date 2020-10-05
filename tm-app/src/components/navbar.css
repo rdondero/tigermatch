@@ -1,0 +1,27 @@
+#nav {
+	width: 100%;
+	float: center;
+	margin: 0 0 3em 0;
+	padding: 0;
+    list-style: none; 
+}
+#nav li {
+    float: left; 
+    font-size: 35px;}
+
+#nav li a {
+		display: block;
+		padding: 8px 15px;
+		text-decoration: none;
+		font-weight: bold;
+        /* border-right: 1px solid #ccc;  */
+    }
+
+#nav li a {
+		display: block;
+		padding: 8px 15px;
+		text-decoration: none;
+		font-weight: bold;
+		color: rgb(251, 148, 30);
+        /* border-right: 1px solid rgb(0, 0, 0);  */
+    }
