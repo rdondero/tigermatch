@@ -21,7 +21,7 @@ class Navbar extends Component {
                 {/* <h1>Navbar</h1>
                 <span style={this.styles} className="badge badge-primary m-2">TIGERMATCH, My Profile, Filters, Browse Singles, Matches</span> */}
                 <ul id="nav">
-                <li><button onClick={this.handleTIGERMATCH}><a href="#">TIGERMATCH</a></button></li>
+                <li><button color="black" onClick={this.handleTIGERMATCH}><a href="#">TIGERMATCH</a></button></li>
                 <li><button onClick={this.handleTIGERMATCH}><a href="#">My Profile</a></button></li>
                 <li><button onClick={this.handleTIGERMATCH}><a href="#">Filters</a></button></li>
                 <li><button onClick={this.handleTIGERMATCH}><a href="#">Browse Singles</a></button></li>

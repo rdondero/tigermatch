@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={pton} alt="" width="900" height="500"></img>
+        <img src={pton} alt="" width="1400" height="787"></img>
         <h1>Welcome to TIGERMATCH!</h1>
         <p>
           Edit "My Profile" to get started!
